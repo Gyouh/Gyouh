@@ -10,7 +10,7 @@ I love code!!
 * 🖥️  See my portfolio at [Doesn't have yet](http://https://github.com/Gyouh)
 * ✉️  You can contact me at [pawel207@interia.pl](mailto:pawel207@interia.pl)
 * 🧠  I'm learning C# and ASP.NET
-* 🤝  I'm open to collaborating on for anything
+* 🤝  I'm open to collaborating on others projects
 * ⚡  I like skateboarding
 
 <a href="https://www.github.com/Gyouh" target="_blank" rel="noreferrer"><img
